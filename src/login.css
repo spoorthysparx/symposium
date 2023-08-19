@@ -1,0 +1,9 @@
+.card-light-blue {
+  background-color: rgb(147, 182, 248);
+  width: 20rem;
+  height: 20rem;
+  padding: 1.5em .5em .5em;
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: .5rem;
+}
